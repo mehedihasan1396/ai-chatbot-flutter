@@ -73,5 +73,5 @@ We encourage contributions to this project! If you have improvements or suggesti
 This project is licensed under the MIT License [check the LICENSE file for details](LICENSE).
 
 ## Author
-
-Aayush D.C Dangi (dcaayushd)
+Name: Md. Mehedi Hasan
+ID: 0242220005101396
